@@ -1,0 +1,42 @@
+D:\ис21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.exe.config
+D:\ис21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.exe
+D:\ис21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.pdb
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.AssemblyReference.cache
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\MainWindow.g.cs
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\App.g.cs
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf_MarkupCompile.cache
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf_MarkupCompile.lref
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\MainWindow.baml
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.g.resources
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.Properties.Resources.resources
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.GenerateResource.cache
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.CoreCompileInputs.cache
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.exe
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.pdb
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Loading.g.cs
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Menu.g.cs
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Rules.g.cs
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Loading.baml
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Menu.baml
+D:\ис21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Rules.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.exe.config
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.exe
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\bin\Debug\TicTacToeWpf.pdb
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Loading.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Menu.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Rules.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Loading.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Menu.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\Rules.baml
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.g.resources
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.exe
+C:\Users\Пользователь\Desktop\Практика ИС-21\TicTacToeWpf\TicTacToeWpf\obj\Debug\TicTacToeWpf.pdb

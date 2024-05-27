@@ -1,0 +1,20 @@
+﻿        <Button Click="x_1_y_1_Click" x:Name="x_1_y_1"
+                Grid.Column="0" Grid.Row="1" Content="|" />
+        <Button Click="x_2_y_1_Click" x:Name="x_2_y_1" 
+                Grid.Column="0" Grid.Row="2" Content="|"/>
+        <Button Click="x_3_y_1_Click" x:Name="x_3_y_1" 
+                Grid.Column="0" Grid.Row="3" Content="|"/>
+
+        <Button Click="x_1_y_2_Click" x:Name="x_1_y_2" 
+                Grid.Column="1" Grid.Row="1" Content="|"/>
+        <Button Click="x_2_y_2_Click" x:Name="x_2_y_2" 
+                Grid.Column="1" Grid.Row="2" Content="|"/>
+        <Button Click="x_3_y_2_Click" x:Name="x_3_y_2" 
+                Grid.Column="1" Grid.Row="3" Content="|"/>
+
+        <Button Click="x_1_y_3_Click" x:Name="x_1_y_3" 
+                Grid.Column="2" Grid.Row="1" Content="|"/>
+        <Button Click="x_2_y_3_Click" x:Name="x_2_y_3" 
+                Grid.Column="2" Grid.Row="2" Content="|"/>
+        <Button Click="x_3_y_3_Click" x:Name="x_3_y_3" 
+                Grid.Column="2" Grid.Row="3" Content="|"/> 
